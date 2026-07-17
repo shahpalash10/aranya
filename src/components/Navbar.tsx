@@ -8,6 +8,7 @@ const navLinks = [
   { label: 'Journey', href: '#journey' },
   { label: 'Benefits', href: '#benefits' },
   { label: 'Sustainability', href: '#sustainability' },
+  { label: 'Contact', href: '#contact' },
 ];
 
 export default function Navbar() {

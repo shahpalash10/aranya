@@ -7,6 +7,7 @@ import WhyIndianSkinSection from "@/components/WhyIndianSkinSection";
 import SustainabilitySection from "@/components/SustainabilitySection";
 import RoadmapSection from "@/components/RoadmapSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
+import ContactUsSection from "@/components/ContactUsSection";
 import FinalCTASection from "@/components/FinalCTASection";
 import Footer from "@/components/Footer";
 import FloatingPetals from "@/components/FloatingPetals";
@@ -32,6 +33,7 @@ export default function Home() {
         <SustainabilitySection />
         <RoadmapSection />
         <TestimonialsSection />
+        <ContactUsSection />
         <FinalCTASection />
       </main>
 
