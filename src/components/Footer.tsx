@@ -53,7 +53,7 @@ export default function Footer() {
             className="text-[#F8F5EF]/20 text-xs"
             style={{ fontFamily: 'Inter, sans-serif' }}
           >
-            &copy; 2024 ARANYA. All rights reserved.
+            &copy; 2026 ARANYA. All rights reserved.
           </p>
           <p
             className="text-[#F8F5EF]/15 text-xs mt-2"

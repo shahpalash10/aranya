@@ -11,19 +11,19 @@ const roadmapItems = [
     isCurrent: true,
   },
   {
-    badge: '2025',
+    badge: '2026',
     title: 'Botanical Tea',
     description: 'Traditional Palash flower tea blend for inner wellness.',
     isCurrent: false,
   },
   {
-    badge: '2025',
+    badge: '2027',
     title: 'Natural Soap',
     description: 'Handcrafted botanical soap with Palash extract.',
     isCurrent: false,
   },
   {
-    badge: '2026',
+    badge: '2027',
     title: 'Expanded Collection',
     description: 'A complete botanical wellness line inspired by Indian forests.',
     isCurrent: false,
