@@ -7,8 +7,8 @@ import Image from 'next/image';
 const testimonials = [
   {
     photo: '/images/testimonial-1.jpg',
-    name: 'Priya Sharma',
-    location: 'Mumbai',
+    name: 'Gauri Chapra',
+    location: 'Chennai',
     quote: 'ARANYA has completely transformed my skincare routine. The cooling spray feels like a breath of fresh forest air on my skin. I use it every morning and evening.',
   },
   {
