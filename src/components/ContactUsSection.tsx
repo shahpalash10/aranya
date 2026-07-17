@@ -71,7 +71,7 @@ export default function ContactUsSection() {
               </svg>
             </div>
             <h3 className="text-xl text-[#F8F5EF] font-medium mb-2" style={{ fontFamily: 'Cormorant Garamond, serif' }}>
-              Meera Goradia
+              Gauri Chapra (Chennai)
             </h3>
             <a href="tel:+919885562024" className="text-[#F8F5EF]/70 hover:text-[#C8A04B] transition-colors" style={{ fontFamily: 'Inter, sans-serif' }}>
               +91 98855 62024
